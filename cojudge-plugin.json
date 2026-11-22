@@ -1,0 +1,9 @@
+{
+  "id": "neetcode-250",
+  "name": "NeetCode 250",
+  "version": "1.0.0",
+  "description": "NeetCode 150 plus 100 more problems across the same patterns. Ships the 99 problems not in Blind 75 / NeetCode 150 and reuses core Cojudge problems for the rest.",
+  "homepage": "https://github.com/cojudge/neetcode-250",
+  "minCojudge": "0.10.0",
+  "unprefixedIds": true
+}
